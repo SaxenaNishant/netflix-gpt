@@ -31,7 +31,12 @@
 - Built movie list and movie card
 - Found image cdn from tmdb
 - Made browse page amazing using tailwind
-- Made popular videos custom hook and updated store with its value
+- Made usePopularVideos custom hook and updated store with its value
+- Gpt search page
+- Gpt search bar
+- Add multilingual feature
+- Integrate gpt apis
+
   ...
 
 # Features

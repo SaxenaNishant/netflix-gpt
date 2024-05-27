@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import { VideoBackground } from "./VideoBackground";
 import { VideoTitle } from "./VideoTitle";
 
-export const MainContainer = () => {
+const MainContainer = () => {
   const movies = useSelector((store) => store.movies?.nowPlayingMovies);
   if (!movies) return;
   const mainMovie = movies[0];
@@ -15,3 +15,5 @@ export const MainContainer = () => {
     </div>
   );
 };
+
+export default MainContainer;
