@@ -3,32 +3,36 @@
 - Create React App
 - Configured Tailwindcss
 - Header
-- routing of the application
+- Routing of the application
 - Login form
 - Sign up form
 - Form validations
-- useRef hook
+- UseRef hook
 - Firebase setup
 - Deployed app on production
 - Signup user account on firebase
-- Implement signin user api
+- Implemented signin user api
 - Created user store with user slice
 - Signout feature
-- Add signout button and header on browse page
-- Update profile
-- Fetch movies lists from tmdb api
-- Build browse page with movie lists
+- Added signout button and header on browse page
+- Updated profile
+- Fetched movies lists from tmdb api
+- Built browse page with movie lists
 - Custom hook for nowPlayingMovies
-- Update store with movie data
-- Create slice for movie
-- Planning for main container and secondary container
-- Fetch data trailer video
-- Update store with trailer video data
+- Updated store with movie data
+- Created slice for movie
+- Planned for main container and secondary container
+- Fetched data trailer video
+- Updated store with trailer video data
 - Custom hook for movie trailer
 - Embedded youtube video and make it autoplay and mute
 - Added tailwind class to make main container look awesome
-
-...
+- Built secondary component
+- Built movie list and movie card
+- Found image cdn from tmdb
+- Made browse page amazing using tailwind
+- Made popular videos custom hook and updated store with its value
+  ...
 
 # Features
 
