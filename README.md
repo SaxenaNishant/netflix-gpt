@@ -34,18 +34,21 @@
 - Made usePopularVideos custom hook and updated store with its value
 - Gpt search page
 - Gpt search bar
-- Add multilingual feature
+- Added multilingual feature
 - Integrate gpt apis
 - Configured openai
 - Got openapi response
 - Called TMDB movie api with openapi response
-- Add openai response on store of gpt slice
-- Add tmdb movie response with openai results on store gpt slice
-- Reuse movie list component to show tmdb response on GptMovieSuggestion Component
-- Make search page along with search bar and movie suggestion components amazing
-- Move secrets and access tokens from constant to .env file
-- Optimise api calls by using memoization.
-  ...
+- Added openai response on store of gpt slice
+- Added tmdb movie response with openai results on store gpt slice
+- Reused movie list component to show tmdb response on GptMovieSuggestion Component
+- Made search page along with search bar and movie suggestion components amazing
+- Moved secrets and access tokens from constant to .env file
+- Optimised api calls by using memoization.
+- Added .env file to .gitignore
+- Made our application responsive
+
+...
 
 # Features
 
